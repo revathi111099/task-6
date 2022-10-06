@@ -1,0 +1,27 @@
+*{
+	margin:0px;
+	padding:0px;
+	box-sizing:border-box;
+}
+.container{
+	width:1140px;
+	margin:0 auto;
+	padding: 0 15px;
+}
+.number-section{
+	background:#f5f5f5;
+	padding:10px;
+}
+.number-row{
+	display:flex;
+}
+.numbers-box{
+	width:25%;
+	padding:0 15px;
+	text-align:center;
+}
+.numbers-box span{
+	color:rgb(81 199 81/78%);
+	font-size:40px;
+	font-weight:700;
+}
